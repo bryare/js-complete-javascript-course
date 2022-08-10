@@ -122,3 +122,11 @@ switch (language) {
     console.log("Great language too");
     break;
 } */
+
+// LECTURE: The Conditional (Ternary) Operator
+
+/* const countryPop = 332;
+
+console.log(
+  `America's population is ${countryPop > 33 ? "above" : "below"} average`
+); */
