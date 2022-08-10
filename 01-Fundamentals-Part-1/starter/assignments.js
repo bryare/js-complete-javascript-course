@@ -52,7 +52,7 @@ console.log(description); */
 
 // LECTURE: Taking Decisions: if / else Statements
 
-const countryPopulation = 332;
+/* const countryPopulation = 332;
 if (countryPopulation > 33) {
   console.log(`USA's population is above average`);
 } else {
@@ -60,3 +60,13 @@ if (countryPopulation > 33) {
     `USA's population is ${33 - countryPopulation} million below average`
   );
 }
+ */
+
+// LECTURE: Type Conversion and Coercion
+
+/* console.log("9" - "5"); // 4
+console.log("19" - "13" + "17"); // 617
+console.log("19" - "13" + 17); // 23
+console.log("123" < 57); // false;
+console.log(5 + 6 + "4" + 9 - 4 - 2); */
+// 11 + "4" = 114 + (9 - 4 - 2) = "114" + (3) = 1143
