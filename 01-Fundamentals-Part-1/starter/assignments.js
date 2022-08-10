@@ -70,3 +70,17 @@ console.log("19" - "13" + 17); // 23
 console.log("123" < 57); // false;
 console.log(5 + 6 + "4" + 9 - 4 - 2); */
 // 11 + "4" = 114 + (9 - 4 - 2) = "114" + (3) = 1143
+
+// LECTURE: Equality Operators: == vs. ===
+
+/* const numNeighbor = Number(
+  prompt("How many neighbor countries does your country have?")
+);
+
+if (numNeighbor === 1) {
+  console.log("Only 1 border");
+} else if (numNeighbor > 1) {
+  console.log("More than 1 border");
+} else if (numNeighbor === 0) {
+  console.log("No borders");
+} */
