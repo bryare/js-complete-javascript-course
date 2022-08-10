@@ -84,3 +84,15 @@ if (numNeighbor === 1) {
 } else if (numNeighbor === 0) {
   console.log("No borders");
 } */
+
+// LECTURE: Logical Operators
+
+/* const countrySpeaksEnglish = true;
+const hasLessThanFiftyMillionPop = false;
+const isAnIsland = false;
+
+if (countrySpeaksEnglish && hasLessThanFiftyMillionPop && isAnIsland) {
+  console.log("You should live in America!");
+} else {
+  console.log("America does not meet your criteria.");
+} */
